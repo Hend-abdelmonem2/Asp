@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "uUeRpuPmLdQcKKCf6XNYUVdQVojRDeRmc2ranMLWq9k=",
+  "Source": "challange_Diabetes",
+  "BasePath": "_content/challange_Diabetes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "challange_Diabetes\\wwwroot",
+      "Source": "challange_Diabetes",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\new\\challange_Diabetes\\wwwroot\\",
+      "BasePath": "_content/challange_Diabetes",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
